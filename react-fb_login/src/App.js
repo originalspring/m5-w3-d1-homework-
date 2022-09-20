@@ -34,7 +34,7 @@ function App() {
             <LoginForm />
             {/* FB Login Button */}
             <FacebookLogin 
-              appId="511393377657922"
+              appId="3364751230404731"
               autoLoad={false}
               fields="name,email,picture"
               scope="public_profile,user_friends"
